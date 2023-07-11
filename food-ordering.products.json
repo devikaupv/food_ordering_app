@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64ad2c16968710200fe0b872"
+  },
+  "adjective": "modern",
+  "category": "Object",
+  "description": "Savoury South Indian breakfast dosa filled with spiced potato filling, served with chutneys and sambar.",
+  "imageUrl": "https://res.cloudinary.com/dm99ca13b/image/upload/v1688993404/breaky-dosa_z7lqcy.jpg",
+  "name": "Dosa",
+  "price": "150.00"
+}]
